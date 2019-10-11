@@ -109,7 +109,7 @@ tensorboard --logdir=./
 
 ## Comparison Chart
 
-| number | hidden size | attention head | epoch  | data size | word embedding size | F1  | EM  |
+| number | hidden size | attention head | step | data size | word embedding size | F1  | EM  |
 | ------ | ----------- | -------------- | ------ | --------- | ------------------- | --- | --- |
 | 1      | 96          | 1              | 60000  | 15320     | 636086              | 51  | 51  |
 | 2      | 96          | 1              | 60000  | 26936     | 636086              | 63  | 63  |
